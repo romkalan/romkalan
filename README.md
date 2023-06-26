@@ -3,7 +3,7 @@
   <h3>iOS-developer from Russia</h3>
 </div>
 <div id="socials" align="center">
-  <a href="[linkedIn-url](https://www.linkedin.com/in/roman-lantsov-4b5436277/)">
+  <a href="https://www.linkedin.com/in/roman-lantsov-4b5436277/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedIn"/>
   </a>
   <a href="https://t.me/romkalants">
