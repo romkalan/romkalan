@@ -16,7 +16,7 @@
 
 ---
 ### About me
-- 👨🏻‍🎓 Know about my experiences [CV] (cv-link)
+- 👨🏻‍🎓 Know about my experiences: [CV](https://drive.google.com/file/d/15dzR9v7vtVxCi2-FBLauy15rhexyWyIx/view)
 - 🔭 I’m currently working on my pet projects
 - 💬 Ask me about anything
 - 📫 How to reach me: romkalan@mail.ru
