@@ -11,15 +11,12 @@
   </a>
 </div>
 
-  ![Profile views](https://komarev.com/ghpvc/?username=romkalan&color=yellow)
-
-
 ---
 ### About me
-- 👨🏻‍🎓 Know about my experiences: [CV](https://drive.google.com/file/d/15dzR9v7vtVxCi2-FBLauy15rhexyWyIx/view)
+- 👨🏻‍🎓 Know about my experiences: [![CV Badge](https://img.shields.io/badge/CV-blue?style=flat&logo=CV&logoColor=white)](https://drive.google.com/file/d/15dzR9v7vtVxCi2-FBLauy15rhexyWyIx/view)
 - 🔭 I’m currently working on my pet projects
 - 💬 Ask me about anything
-- 📫 How to reach me: romkalan@mail.ru
+- 📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/romkalan-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/romkalants)
 - ⚡ Fun fact: I love Cpecialty Coffee & Tea
 
 ---
@@ -31,3 +28,5 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=romkalan&show_icons=true&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=romkalan&show_icons=true&theme=radical&utcOffset=5)
+
+![Profile views](https://komarev.com/ghpvc/?username=romkalan&color=yellow)
