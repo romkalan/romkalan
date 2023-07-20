@@ -6,6 +6,9 @@
   <a href="https://www.linkedin.com/in/roman-lantsov-4b5436277/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedIn"/>
   </a>
+  <a href = "https://geeklink.io/members/romkalan/profile/">
+     <img src="https://img.shields.io/badge/GeekLink-red?style=for-the-badge&logo=geeklink&logoColor=white" alt=geeklink"/>
+  </a>
   <a href="https://t.me/romkalants">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt=Telegram"/>
   </a>
