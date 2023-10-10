@@ -13,7 +13,7 @@
 
 ---
 ### About me
-- 👨🏻‍🎓 Know about my experiences: [![CV Badge](https://img.shields.io/badge/CV_iOS_Developer-blue?style=flat&logo=CV&logoColor=white)](https://drive.google.com/file/d/10VtTo0q_hCG0ZbI4BXIJuVPccVi91Lt1/view?usp=sharing)
+- 👨🏻‍🎓 Know about my experiences: [![CV Badge](https://img.shields.io/badge/CV_iOS_Developer-blue?style=flat&logo=CV&logoColor=white)](https://drive.google.com/file/d/1UmpKrWCBPP4YSMIt9Nz6eKXkjv6KGwiK/view?usp=sharing)
 - 🔭 I’m currently working on my pet projects
 - 💬 Ask me about anything
 - 📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/romkalants-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/romkalants)
