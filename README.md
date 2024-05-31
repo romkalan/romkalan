@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>Hi there, I'm Roman</h1>
-  <h3>iOS-developer from Russia</h3>
+  <h3>Frontend & iOS-developer from Russia</h3>
 </div>
 <div id="socials" align="center">
   <a href="https://www.linkedin.com/in/roman-lantsov-4b5436277/">
@@ -17,7 +17,7 @@
 - 🔭 I’m currently working on my pet projects
 - 💬 Ask me about anything
 - 📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/romkalants-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/romkalants)
-- ⚡ Fun fact: I love Cpecialty Coffee & Tea
+- ⚡ Fun fact: I love Specialty Coffee & Tea
 
 ---
 ### Languages and tools
