@@ -2,7 +2,7 @@
   <h1>Hi there, I'm Roman</h1>
   <h3>Frontend & iOS-developer from Russia</h3>
 </div>
-<div id="socials" align="center">
+<div id="socials">
   <a href="https://www.linkedin.com/in/roman-lantsov-4b5436277/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedIn"/>
   </a>
